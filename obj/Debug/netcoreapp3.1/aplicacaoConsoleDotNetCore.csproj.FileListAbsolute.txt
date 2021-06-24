@@ -1,0 +1,13 @@
+C:\GIT\aplicacaoConsoleDotNetCore\bin\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.exe
+C:\GIT\aplicacaoConsoleDotNetCore\bin\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.deps.json
+C:\GIT\aplicacaoConsoleDotNetCore\bin\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.runtimeconfig.json
+C:\GIT\aplicacaoConsoleDotNetCore\bin\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.runtimeconfig.dev.json
+C:\GIT\aplicacaoConsoleDotNetCore\bin\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.dll
+C:\GIT\aplicacaoConsoleDotNetCore\bin\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.pdb
+C:\GIT\aplicacaoConsoleDotNetCore\obj\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.csprojAssemblyReference.cache
+C:\GIT\aplicacaoConsoleDotNetCore\obj\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.AssemblyInfoInputs.cache
+C:\GIT\aplicacaoConsoleDotNetCore\obj\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.AssemblyInfo.cs
+C:\GIT\aplicacaoConsoleDotNetCore\obj\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.csproj.CoreCompileInputs.cache
+C:\GIT\aplicacaoConsoleDotNetCore\obj\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.dll
+C:\GIT\aplicacaoConsoleDotNetCore\obj\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.pdb
+C:\GIT\aplicacaoConsoleDotNetCore\obj\Debug\netcoreapp3.1\aplicacaoConsoleDotNetCore.genruntimeconfig.cache
